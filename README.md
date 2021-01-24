@@ -1,2 +1,0 @@
-# Mushrooms
-Mushroom data Dashboard 
